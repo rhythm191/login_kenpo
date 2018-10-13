@@ -33,7 +33,9 @@ const login_url = 'https://its-kenpo.mhweb.jp/';
 
   await page.waitForNavigation({timeout: 60000, waitUntil: "domcontentloaded"});
 
-  console.log('login success');
+  const point = await page.evaluate(() => document.getElementById('p_left').innerText);
+
+  console.log(`login success! your point is ${ point }`);
 
   await browser.close();
 })();
