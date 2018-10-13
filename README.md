@@ -6,14 +6,21 @@ auto login my health web by headless chrome
 setup
 
 ```
-$ npm install
+$ npm install -g login_kanpo
 ```
 
-login command with "bango", "kigo", "password"
+you should set login infomation.
 
 ```
-$ node index.js 9999 33 password
+$ login_kanpo setting
 ```
+
+login my health web
+
+```
+$ login_kanpo login
+```
+
 
 ## Contributing
 
