@@ -20,6 +20,6 @@ jobs:
     - name: npm install, build, and test
       run: |
         yarn install
-        node index.js setting
+        yarn run kanpo-login setting
       env:
         CI: true
