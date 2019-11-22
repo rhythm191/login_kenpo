@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rhythm191/login_kanpo#readme",
   "dependencies": {
-    "commander": "^2.19.0",
+    "commander": "^4.0.1",
     "inquirer": "^6.2.0",
     "puppeteer": "^1.9.0"
   }
