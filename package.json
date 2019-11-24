@@ -4,8 +4,7 @@
   "description": "auto login kenpo(my health web) by headless chrome",
   "main": "login_kenpo.js",
   "scripts": {
-    "exec": "node login_kenpo.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "exec": "node login_kenpo.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,7 @@
     "url": "https://github.com/rhythm191/login_kenpo/issues"
   },
   "bin": {
-    "login_kenpo": "index.js"
+    "login_kenpo": "login_kenpo.js"
   },
   "homepage": "https://github.com/rhythm191/login_kenpo#readme",
   "dependencies": {

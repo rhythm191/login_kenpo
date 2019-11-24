@@ -30,6 +30,18 @@ test exec
 $ yarn run exec login
 ```
 
+version up
+
+```
+$ npm version [major|minor|patch]
+```
+
+publish
+
+```
+$ npm publish
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/rhythm191/login_kenpo. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
