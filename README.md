@@ -7,7 +7,7 @@ auto login my health web by headless chrome
 setup
 
 ```
-$ npm install -g login_kenpo
+$ npm install -g @rhythm191/login_kenpo
 ```
 
 you should set login infomation.
