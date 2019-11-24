@@ -1,6 +1,6 @@
 {
   "name": "@rhythm191/login_kenpo",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "auto login kenpo(my health web) by headless chrome",
   "main": "login_kenpo.js",
   "scripts": {
