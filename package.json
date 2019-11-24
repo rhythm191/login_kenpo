@@ -1,28 +1,28 @@
 {
-  "name": "login_kanpo",
-  "version": "1.1.0",
-  "description": "auto login kanpo(my health web) by headless chrome",
-  "main": "login_kanpo.js",
+  "name": "login_kenpo",
+  "version": "1.2.0",
+  "description": "auto login kenpo(my health web) by headless chrome",
+  "main": "login_kenpo.js",
   "scripts": {
-    "exec": "node login_kanpo.js",
+    "exec": "node login_kenpo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhythm191/login_kanpo.git"
+    "url": "git+https://github.com/rhythm191/login_kenpo.git"
   },
   "keywords": [
-    "kanpo"
+    "kenpo"
   ],
   "author": "rhythm191",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhythm191/login_kanpo/issues"
+    "url": "https://github.com/rhythm191/login_kenpo/issues"
   },
   "bin": {
-    "login_kanpo": "index.js"
+    "login_kenpo": "index.js"
   },
-  "homepage": "https://github.com/rhythm191/login_kanpo#readme",
+  "homepage": "https://github.com/rhythm191/login_kenpo#readme",
   "dependencies": {
     "commander": "^4.0.1",
     "inquirer": "^7.0.0",
