@@ -1,4 +1,5 @@
-# login_kanpo
+# login_kenpo
+
 auto login my health web by headless chrome
 
 ## USAGE
@@ -6,25 +7,32 @@ auto login my health web by headless chrome
 setup
 
 ```
-$ npm install -g login_kanpo
+$ npm install -g @rhythm191/login_kenpo
 ```
 
 you should set login infomation.
 
 ```
-$ login_kanpo setting
+$ login_kenpo setting
 ```
 
 login my health web
 
 ```
-$ login_kanpo login
+$ login_kenpo login
 ```
 
+## Development
+
+test exec
+
+```
+$ yarn run exec login
+```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rhythm191/login_kanpo. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rhythm191/login_kenpo. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -32,4 +40,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the login_kanpo project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/rhythm191/login_kanpo/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the login_kenpo project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/rhythm191/login_kenpo/blob/master/CODE_OF_CONDUCT.md).
