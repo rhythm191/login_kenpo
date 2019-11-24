@@ -39,7 +39,7 @@ $ npm version [major|minor|patch]
 publish
 
 ```
-$ npm publish
+$ npm publish --access=public
 ```
 
 ## Contributing
