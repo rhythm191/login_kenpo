@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rhythm191/login_kenpo#readme",
   "dependencies": {
-    "commander": "^4.0.1",
+    "commander": "^6.2.1",
     "inquirer": "^7.0.0",
     "puppeteer": "^2.0.0"
   }
