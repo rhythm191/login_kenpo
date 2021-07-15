@@ -24,7 +24,7 @@
   "homepage": "https://github.com/rhythm191/login_kenpo#readme",
   "dependencies": {
     "commander": "^4.0.1",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.1.2",
     "puppeteer": "^2.0.0"
   }
 }
